@@ -7,7 +7,7 @@ Contiene los siguientes componentes:
 - Este es un pequeño servidor de express listo para ejecutarse y servir la carpeta public en la web.
 
 - Los tickets son registrados en un archivo .json.
-    El cuál contiene:
+    + El cuál contiene:
         * Cantidad de tickets generados.
         * Fecha del día.
         * Tickets generados y/o pendientes.
@@ -15,7 +15,7 @@ Contiene los siguientes componentes:
 
 - Uso de sockets para la actualización de pantalla pública y otras solicitudes del sistema.
 
-* Se agregó un pequeño sonido al sistema al momente de atender tickets.
+*Se agregó un pequeño sonido al sistema al momento de atender tickets.
 
 Recuerden que deben de reconstruir los módulos de node con el comando:
 
